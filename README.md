@@ -1,3 +1,12 @@
+# Moved to Almond
+This repository has been moved under the Almond organization.
+
+The new location ist https://github.com/almond-sh/examples. All further development will happen there.
+
+This archived copy is only kept here for some time to avoid breaking binder links.
+
+---
+
 # Almond Examples [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbrunk/almond-examples/master)
 
 A collection of [Jupyter](http://jupyter.org/) notebooks showing what you can do with the [Almond](http://almond-sh.github.io/almond/stable/docs/intro) Scala kernel.
